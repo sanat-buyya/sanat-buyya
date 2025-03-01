@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/@sanatbuyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanatbuyya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sanat-buyya-a32b9b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanat-buyya" height="30" width="40" /></a>
-<a href="https://fb.com/sanatbuyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanatbuyya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100039713322909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanatbuyya" height="30" width="40" /></a>
 <a href="https://instagram.com/sanat_buyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanat_buyya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sanatbuyya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanatbuyya1" height="30" width="40" /></a>
+<a href="https://youtube.com/@sanatbuyya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanatbuyya1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
