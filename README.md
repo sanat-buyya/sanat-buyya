@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sanat-buyya.github.io/my-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4387/4387430.png" alt="my-portfolio" height="30" width="40" /></a>
+<a href="https://sanat-buyya.github.io/my-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4387/4387430.png" alt="my-portfolio" height="32" width="40" /></a>
 <a href="https://twitter.com/@sanatbuyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanatbuyya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sanat-buyya-a32b9b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanat-buyya" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100039713322909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanatbuyya" height="30" width="40" /></a>
