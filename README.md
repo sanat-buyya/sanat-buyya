@@ -33,10 +33,17 @@
       <li>AWS Basics</li>
     </ul>
 
+    <h3>Frontend Development</h3>
+  <ul>
+    <li>HTML, CSS</li>
+    <li>JavaScript</li>
+    <li>React.js (Basics)</li>
+  </ul>
+  
     <h3>Tools & Other Technologies</h3>
     <ul>
       <li>Git & GitHub</li>
-      <li>HTML, CSS</li>
+      <li>SQL/PLSQL</li>
     </ul>
   </div>
 
