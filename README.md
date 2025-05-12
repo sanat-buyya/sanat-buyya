@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sanat</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">A passionate and motivated <b>Full Stack Developer</b> with a growing interest in building robust, scalable web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanat-buyya&label=Profile%20views&color=0e75b6&style=flat" alt="sanat-buyya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanat-buyya" alt="sanat-buyya" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 <b>Currently Learning:</b> DevOps, Linux, AWS
+- 💬 <b>Ask Me About:</b> Java, Spring Boot, SQL
 
 - 📫 How to reach me **sanatbuyya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g3_Qn-j8fdD9YmmRo-WVSS17pKb2dL5K/view?usp=drivesdk](https://drive.google.com/file/d/1g3_Qn-j8fdD9YmmRo-WVSS17pKb2dL5K/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xgImvq6vrxK0EgiCOC1zT-LCUS6oUW-2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
