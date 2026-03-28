@@ -20,7 +20,13 @@ Building scalable web & mobile applications with clean architecture
 - ♟️ Problem Solver | Chess Player
 
 ---
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanat-buyya&theme=react-dark" />
+</p>
+
+---
 ## 🚀 Featured Project
 
 ### 🎟️ SwapTicket – Train Ticket Marketplace
