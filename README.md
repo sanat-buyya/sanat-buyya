@@ -66,16 +66,9 @@ Building scalable web & mobile applications with clean architecture
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanat-buyya&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://sanat-buyya.github.io/my-portfolio/">
+<a href="https://https://sanatbuyya.vercel.app/">
 <img src="https://cdn-icons-png.flaticon.com/512/4387/4387430.png" height="30"/></a>
 
 <a href="https://www.linkedin.com/in/sanat-buyya-a32b9b282">
