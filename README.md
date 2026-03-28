@@ -20,10 +20,11 @@ Building scalable web & mobile applications with clean architecture
 - ♟️ Problem Solver | Chess Player
 
 ---
-## 📈 Contribution Graph
+
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanat-buyya&theme=react-dark" />
+  <img src="https://ghchart.rshah.org/sanat-buyya" alt="Sanat's Github chart" />
 </p>
 
 ---
