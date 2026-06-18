@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanat</h1>
 <h3 align="center">
-🚀 Full Stack Developer | Java • Spring Boot • React • Node.js  
+🚀 Full Stack Developer | Passionate Software Engineer with 1.5 years of hands-on experience building real-world web applications and enterprise solutions. 
+ • Java • Spring Boot • React.js • Node.js • React Native
 Building scalable web & mobile applications with clean architecture
 </h3>
 
@@ -8,16 +9,6 @@ Building scalable web & mobile applications with clean architecture
   <img src="https://komarev.com/ghpvc/?username=sanat-buyya&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/sanat-buyya?label=Followers&style=social" />
 </p>
-
----
-
-## 🧠 About Me
-- 💻 Full Stack Developer (Java + React + Node)
-- 🔥 Strong backend focus (Spring Boot, APIs, DB design)
-- 📱 Exploring React Native (Mobile Apps)
-- ☁️ Learning Cloud (Azure, Vercel, Render)
-- ⚡ Built real-world projects like **SwapTicket**
-- ♟️ Problem Solver | Chess Player
 
 ---
 
