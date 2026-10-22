@@ -10,7 +10,7 @@ Building reliable web applications, thoughtful user experiences, and scalable ba
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanat-buyya-a32b9b282)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanatbuyya@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanat-buyya&style=flat-square&color=6366f1&label=Profile%20views)
+![Profile Views](https://hits.sh/github.com/sanat-buyya.svg?style=flat-square&color=6366f1&label=Profile%20Views)
 ![Followers](https://img.shields.io/github/followers/sanat-buyya?style=flat-square&color=6366f1&label=FOLLOWERS)
 
 </div>
