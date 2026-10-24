@@ -27,27 +27,13 @@ I'm a Full Stack Developer focused on building practical software solutions with
 - Focused on clean code, maintainable architecture, and solving real-world problems
 - Continuously learning, building, and improving as an engineer
 
-```java
-public class Sanat {
-
-    String role = "Full Stack Developer";
-
-    String[] technologies = {
-        "Java", "Spring Boot", "React",
-        "Node.js", "MySQL", "PostgreSQL"
-    };
-
-    String mindset = "Build. Learn. Improve.";
-}
-```
-
 ## Tech Stack
 
 <div align="center">
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://www.flaticon.com/free-icon/java_5968282" alt="Java" height="30" /> <strong>Java</strong>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -131,14 +117,6 @@ A product-oriented application focused on business workflows and billing operati
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanat-buyya&theme=transparent&hide_border=true&background=0D1117&ring=8B9CFF&fire=8B9CFF&currStreakLabel=8B9CFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanat-buyya&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b9cff&text_color=c9d1d9&langs_count=8" alt="Most used programming languages" />
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8b9cff/sanat-buyya" alt="Sanat's GitHub contribution calendar" width="100%" />
 
 </div>
 
