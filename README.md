@@ -33,15 +33,7 @@ I'm a Full Stack Developer focused on building practical software solutions with
 
 **Backend**
 
-<a href="https://www.java.com/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    alt="Java"
-    height="40"
-    style="vertical-align: middle; background-color: #0d1117; padding: 5px; border-radius: 6px;"
-  />
-</a>
-<strong style="color: #ffffff;">Java</strong>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
