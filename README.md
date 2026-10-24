@@ -21,11 +21,12 @@ Building reliable web applications, thoughtful user experiences, and scalable ba
 
 I'm a Full Stack Developer focused on building practical software solutions with modern frontend technologies and robust backend systems.
 
-- Building applications using **Java, Spring Boot, React.js, Node.js, Next.js**
-- Designing REST APIs, authentication, database schemas, and business logic
-- Working with SQL databases, payment integrations, and cloud deployment
-- Focused on clean code, maintainable architecture, and solving real-world problems
-- Continuously learning, building, and improving as an engineer
+- 🌐 **Portfolio:** [sanatbuyya.vercel.app](https://sanatbuyya.vercel.app/)
+- 💻 Building applications using **Java, Spring Boot, React.js, Node.js, and Next.js**
+- 🔌 Designing REST APIs, authentication, database schemas, and business logic
+- ☁️ Working with SQL databases, payment integrations, and cloud deployment
+- 🏗️ Focused on clean code, maintainable architecture, and solving real-world problems
+- 🚀 Continuously learning, building, and improving as an engineer
 
 ## Tech Stack
 
@@ -68,7 +69,7 @@ I'm a Full Stack Developer focused on building practical software solutions with
 
 ## Selected Projects
 
-### 01 — SwapTicket
+### 01 — [SwapTicket ↗](https://swaptickets.onrender.com/)
 
 **Passenger-to-passenger travel coordination platform**
 
@@ -81,7 +82,11 @@ A full-stack application built around passenger listings, transaction workflows,
 
 **Stack:** Java · Spring Boot · Hibernate · MySQL · React
 
-### 02 — StockPilot
+[🌐 Live Demo](https://swaptickets.onrender.com/)
+
+---
+
+### 02 — [StockPilot ↗](https://sanatstockpilot.vercel.app/)
 
 **Inventory and order management system**
 
@@ -93,6 +98,10 @@ A full-stack application focused on inventory accuracy and reliable order proces
 - React frontend with a Spring Boot and PostgreSQL backend
 
 **Stack:** Java · Spring Boot · PostgreSQL · React · TypeScript
+
+[🌐 Live Demo](https://sanatstockpilot.vercel.app/)
+
+---
 
 ### 03 — RITS Billing Suite
 
